@@ -6,7 +6,7 @@ from flask_oauth import OAuth
 # https://code.google.com/apis/console
 GOOGLE_CLIENT_ID = '973159820575-tf9ilfou58tppeikflp9161rrgvmn827.apps.googleusercontent.com'
 GOOGLE_CLIENT_SECRET = 'jMqKXk4kqhXgpaDtjg-Qp_hj'
-REDIRECT_URI = '/authorized'  # one of the Redirect URIs from Google APIs console
+REDIRECT_URI = '/'  # one of the Redirect URIs from Google APIs console
 
 SECRET_KEY = 'development key'
 DEBUG = True

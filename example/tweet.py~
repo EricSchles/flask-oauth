@@ -32,8 +32,7 @@ twitter = oauth.remote_app('twitter',
     # user interface on the twitter side.
     authorize_url='https://api.twitter.com/oauth/authenticate',
     # the consumer keys from the twitter application registry.
-    <span>234141928-42emG3J76pQ3p8P37fYBMDB6Tj3SshFiIM63sn9c</span>
-    consumer_key='YArIMUrXYjXeQCHBzZX0UhhSl', #need oauth test to show consumer key and secret, this is the cause of your error
+    consumer_key='YArIMUrXYjXeQCHBzZX0UhhSl',
     consumer_secret='DtdV8NcE18MdQI7QQMmzNO5BM39ZLIYhUygTzQBAu1X0WhVyTa'
 )
 
